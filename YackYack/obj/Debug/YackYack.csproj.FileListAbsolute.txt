@@ -1,0 +1,10 @@
+C:\Users\Wagne\source\repos\YackYack\bin\Debug\YackYack.exe.config
+C:\Users\Wagne\source\repos\YackYack\bin\Debug\YackYack.exe
+C:\Users\Wagne\source\repos\YackYack\bin\Debug\YackYack.pdb
+C:\Users\Wagne\source\repos\YackYack\obj\Debug\YackYack.YakYak.resources
+C:\Users\Wagne\source\repos\YackYack\obj\Debug\YackYack.Properties.Resources.resources
+C:\Users\Wagne\source\repos\YackYack\obj\Debug\YackYack.csproj.GenerateResource.cache
+C:\Users\Wagne\source\repos\YackYack\obj\Debug\YackYack.csproj.CoreCompileInputs.cache
+C:\Users\Wagne\source\repos\YackYack\obj\Debug\YackYack.exe
+C:\Users\Wagne\source\repos\YackYack\obj\Debug\YackYack.pdb
+C:\Users\Wagne\source\repos\YackYack\obj\Debug\YackYack.csproj.AssemblyReference.cache
